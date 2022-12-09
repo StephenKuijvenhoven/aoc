@@ -1,6 +1,6 @@
 import utils.InputReader;
 
-public class Template {
+public class NoSpace {
     private static final String FOLDER_NAME = "7-no-space";
     private static final String INPUT_FILE_NAME = "input.txt";
     private static final String INPUT_FILE_PATH = String.format("solutions/%s/%s", FOLDER_NAME, INPUT_FILE_NAME);
